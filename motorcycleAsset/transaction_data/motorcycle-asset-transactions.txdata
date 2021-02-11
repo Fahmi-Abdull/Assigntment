@@ -1,0 +1,44 @@
+[
+    {
+        "transactionName": "motorcycleAssetExists",
+        "transactionLabel": "A test motorcycleAssetExists transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "createMotorcycleAsset",
+        "transactionLabel": "A test createMotorcycleAsset transaction",
+        "arguments": [
+            "001",
+            "some value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "readMotorcycleAsset",
+        "transactionLabel": "A test readMotorcycleAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "updateMotorcycleAsset",
+        "transactionLabel": "A test updateMotorcycleAsset transaction",
+        "arguments": [
+            "001",
+            "some other value"
+        ],
+        "transientData": {}
+    },
+    {
+        "transactionName": "deleteMotorcycleAsset",
+        "transactionLabel": "A test deleteMotorcycleAsset transaction",
+        "arguments": [
+            "001"
+        ],
+        "transientData": {}
+    }
+]
